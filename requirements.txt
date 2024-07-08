@@ -1,0 +1,11 @@
+requests
+python-dotenv
+flask
+flask-cors
+langchain_openai
+langchain_core
+langchain_community
+jq
+chromadb
+openai
+gunicorn
