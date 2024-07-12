@@ -20,6 +20,11 @@
 
 ### How to use
 * Frontend
+  - ```
+    cd frontend
+    ```
+    ---
+
   - Install packages
     ```node
     bun install
@@ -56,6 +61,11 @@
 
 
 * Backend
+  - ```
+    cd backend
+    ```
+    ---
+
   - Create a virtual environment and activate it
 
     ```python
